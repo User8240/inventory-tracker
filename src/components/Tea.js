@@ -4,9 +4,11 @@ import PropTypes from "prop-types";
 function Tea(props) {
   return (
     <React.Fragment>
+      <div onClick = {() => props.whenTeaClicked(props.id)}>
         <h3>{props.name} - {props.origin}</h3>
         <p><em>{props.price}</em></p>
         <hr/>
+      </div>
     </React.Fragment>
   );
 }
