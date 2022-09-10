@@ -14,6 +14,11 @@
 
 _This is a webpage written in JavaScript XML using basic bootstrap CSS styling & JavaScript for functionality._
 
+
+## Component Diagram
+
+<iframe src="https://drive.google.com/file/d/1uJn-ADqGHPX9x6pTh0EngSXffVSBCKDx/preview" width="640" height="480" allow="autoplay"></iframe>
+
 ## Setup/Installation Requirements
 
 * _Fork project to your own GitHub repository_ 
