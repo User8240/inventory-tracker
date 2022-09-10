@@ -28,7 +28,8 @@ function NewTeaForm(props){
           type='text'
           name='name'
           placeholder='Enter Name' />
-        <textarea
+        <input
+          type='number'
           name='price'
           placeholder='Enter Price' />
         <button type='submit'>Add Tea to Inventory</button>
