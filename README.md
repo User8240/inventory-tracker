@@ -17,7 +17,7 @@ _This is a webpage written in JavaScript XML using basic bootstrap CSS styling &
 
 ## Component Diagram
 
-### <iframe src="https://drive.google.com/file/d/1uJn-ADqGHPX9x6pTh0EngSXffVSBCKDx/preview" width="640" height="480" allow="autoplay"></iframe>
+<img src="https://drive.google.com/file/d/1uJn-ADqGHPX9x6pTh0EngSXffVSBCKDx/preview" width="100">
 
 ## Setup/Installation Requirements
 
