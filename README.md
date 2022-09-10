@@ -17,7 +17,7 @@ _This is a webpage written in JavaScript XML using basic bootstrap CSS styling &
 
 ## Component Diagram
 
-<img src="https://drive.google.com/file/d/1uJn-ADqGHPX9x6pTh0EngSXffVSBCKDx/preview" width="100">
+<img src="./inventory-tracker.drawio.png" width="500">
 
 ## Setup/Installation Requirements
 
