@@ -6,7 +6,7 @@ function Tea(props) {
     <React.Fragment>
       <div onClick = {() => props.whenTeaClicked(props.id)}>
         <h3>{props.name} - {props.origin}</h3>
-        <p><em>{props.price}</em></p>
+        <p>{props.price}</p>
         <hr/>
       </div>
     </React.Fragment>
